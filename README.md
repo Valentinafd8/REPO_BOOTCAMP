@@ -1,2 +1,2 @@
-# REPO_BOOTCAMP
+# DATA_SCIENTE_BOOTCAMP
 Repositorio actividades bootcamp Data Science
